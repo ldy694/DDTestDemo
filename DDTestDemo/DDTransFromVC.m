@@ -106,6 +106,7 @@ static CGFloat isUpDownTouch;
 //            NSLog(@"%@",temStr);
         }
         NSLog(@"%@",nowArr);
+        NSLog(@"");
     }];
     
 }
