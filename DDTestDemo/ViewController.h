@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
+extern NSString * const kViewControllerConstTest;
+extern NSString * const kViewControllerConstTestTwo;
+extern const NSInteger kViewControllerConstNum;
+
 @interface ViewController : UIViewController
 
 

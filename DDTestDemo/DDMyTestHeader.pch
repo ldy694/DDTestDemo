@@ -1,0 +1,17 @@
+//
+//  DDMyTestHeader.pch
+//  DDTestDemo
+//
+//  Created by 林兴栋 on 16/8/10.
+//  Copyright © 2016年 林兴栋. All rights reserved.
+//
+
+#ifndef DDMyTestHeader_pch
+#define DDMyTestHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <FMDB/FMDB.h>
+
+
+#endif /* DDMyTestHeader_pch */
